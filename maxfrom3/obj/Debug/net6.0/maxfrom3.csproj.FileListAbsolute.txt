@@ -1,0 +1,15 @@
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.csproj.AssemblyReference.cache
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.AssemblyInfoInputs.cache
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.AssemblyInfo.cs
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.csproj.CoreCompileInputs.cache
+D:\gb_home\C#\maxfrom3\bin\Debug\net6.0\maxfrom3.exe
+D:\gb_home\C#\maxfrom3\bin\Debug\net6.0\maxfrom3.deps.json
+D:\gb_home\C#\maxfrom3\bin\Debug\net6.0\maxfrom3.runtimeconfig.json
+D:\gb_home\C#\maxfrom3\bin\Debug\net6.0\maxfrom3.dll
+D:\gb_home\C#\maxfrom3\bin\Debug\net6.0\maxfrom3.pdb
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.dll
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\refint\maxfrom3.dll
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.pdb
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\maxfrom3.genruntimeconfig.cache
+D:\gb_home\C#\maxfrom3\obj\Debug\net6.0\ref\maxfrom3.dll
