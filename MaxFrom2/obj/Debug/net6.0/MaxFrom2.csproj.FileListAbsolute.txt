@@ -1,0 +1,15 @@
+D:\gb_home\C#\MaxFrom2\bin\Debug\net6.0\MaxFrom2.exe
+D:\gb_home\C#\MaxFrom2\bin\Debug\net6.0\MaxFrom2.deps.json
+D:\gb_home\C#\MaxFrom2\bin\Debug\net6.0\MaxFrom2.runtimeconfig.json
+D:\gb_home\C#\MaxFrom2\bin\Debug\net6.0\MaxFrom2.dll
+D:\gb_home\C#\MaxFrom2\bin\Debug\net6.0\MaxFrom2.pdb
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.csproj.AssemblyReference.cache
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.AssemblyInfoInputs.cache
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.AssemblyInfo.cs
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.csproj.CoreCompileInputs.cache
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.dll
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\refint\MaxFrom2.dll
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.pdb
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\MaxFrom2.genruntimeconfig.cache
+D:\gb_home\C#\MaxFrom2\obj\Debug\net6.0\ref\MaxFrom2.dll
