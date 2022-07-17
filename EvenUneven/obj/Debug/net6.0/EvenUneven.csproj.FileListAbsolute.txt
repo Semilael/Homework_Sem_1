@@ -1,0 +1,15 @@
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.csproj.AssemblyReference.cache
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.AssemblyInfoInputs.cache
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.AssemblyInfo.cs
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.csproj.CoreCompileInputs.cache
+D:\gb_home\C#\EvenUneven\bin\Debug\net6.0\EvenUneven.exe
+D:\gb_home\C#\EvenUneven\bin\Debug\net6.0\EvenUneven.deps.json
+D:\gb_home\C#\EvenUneven\bin\Debug\net6.0\EvenUneven.runtimeconfig.json
+D:\gb_home\C#\EvenUneven\bin\Debug\net6.0\EvenUneven.dll
+D:\gb_home\C#\EvenUneven\bin\Debug\net6.0\EvenUneven.pdb
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.dll
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\refint\EvenUneven.dll
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.pdb
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\EvenUneven.genruntimeconfig.cache
+D:\gb_home\C#\EvenUneven\obj\Debug\net6.0\ref\EvenUneven.dll
